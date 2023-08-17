@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmitLogRouting": {
+      "commandName": "Project",
+      "commandLineArgs": "error \"T - Run. Run. Or it will explode.\""
+    }
+  }
+}
